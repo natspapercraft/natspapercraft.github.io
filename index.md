@@ -6,7 +6,7 @@ Card Making :: Scrapbooking :: Stamping :: Embellishing
 
 ## Welcome to Nat's Paper Craft!
 
-![natalie](./images/npc_belgrave_w512-150x150.jpg){: style="float: left,padding:5px"}
+![natalie](./images/npc_belgrave_w512-150x150.jpg){: style="float: left; padding:5px"}
 My name is Natalie.  My love of crafting started with scrapbooking and has grown to include all sorts of paper items, ranging from greeting cards to Advent calendars.  I use simple stamp, scrap, and embellishing techniques to make unique hand-made items.
 
 Apart from the unique creations, I have made multiple items following particular themes for weddings and corporate stationery.
