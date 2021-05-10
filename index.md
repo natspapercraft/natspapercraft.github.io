@@ -20,7 +20,7 @@ Apart from the unique creations, I have made multiple items following particular
 
 ## Shop Online
 
-![https://www.etsy.com/au/shop/NatsPaperCraft](./images/etsy_logo_w128.png){: style="float: left"}
+[![Etsy](./images/etsy_logo_w128.png)](https://www.etsy.com/au/shop/NatsPaperCraft){: style="float: left"}
 A collection of my cards, albums, and other paper creations are available for sale.  The items are reasonably priced and  I think offer better quality and value than you typically find with preprinted cards in other stores. Sales help to recover my costs and make more items! If you see a design you like but would like it modified, please let me know.
 
 &copy; 2021.  Nat's Paper Craft. All Rights Reserved.
