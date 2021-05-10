@@ -2,21 +2,21 @@
 
 Card Making :: Scrapbooking :: Stamping :: Embellishing
 
-![](./images/wedding-1000x144.jpg)
+![banner](./images/wedding-1000x144.jpg)
 
 ## Welcome to Nat's Paper Craft!
 
-![](./images/npc_belgrave_w512-150x150.jpg){: style="float: left"}
+![natalie](./images/npc_belgrave_w512-150x150.jpg){: style="float: left,padding:5px"}
 My name is Natalie.  My love of crafting started with scrapbooking and has grown to include all sorts of paper items, ranging from greeting cards to Advent calendars.  I use simple stamp, scrap, and embellishing techniques to make unique hand-made items.
 
 Apart from the unique creations, I have made multiple items following particular themes for weddings and corporate stationery.
 
 **Follow me on social media to keep abreast of my latest work and news.**
 
-![https://www.facebook.com/natspapercraftforall](./images/default_facebook.png)
-![http://www.twitter.com/natspapercraft](./images/default_twitter.png)
-![https://www.pinterest.com.au/nataliecraigvas/](./images/default_pinterest.png)
-![https://www.instagram.com/nats_paper_craft/](./images/default_instagram.png)
+[![facebook](./images/default_facebook.png)](https://www.facebook.com/natspapercraftforall)
+[![twitter](./images/default_twitter.png)](http://www.twitter.com/natspapercraft)
+[![pinterest](./images/default_pinterest.png)](https://www.pinterest.com.au/nataliecraigvas/)
+[![instagram](./images/default_instagram.png)](https://www.instagram.com/nats_paper_craft/)
 
 ## Shop Online
 
