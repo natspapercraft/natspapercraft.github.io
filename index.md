@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![http://natspapercraft.com.au](./images/npc_logo_red_w500_t.png)
 
-You can use the [editor on GitHub](https://github.com/natspapercraft/natspapercraft.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Card Making :: Scrapbooking :: Stamping :: Embellishing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](./images/wedding-1000x144.jpg)
 
-### Markdown
+## Welcome to Nat's Paper Craft!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](./images/npc_belgrave_w512-150x150.jpg){: style="float: left"}
+My name is Natalie.  My love of crafting started with scrapbooking and has grown to include all sorts of paper items, ranging from greeting cards to Advent calendars.  I use simple stamp, scrap, and embellishing techniques to make unique hand-made items.
 
-```markdown
-Syntax highlighted code block
+Apart from the unique creations, I have made multiple items following particular themes for weddings and corporate stationery.
 
-# Header 1
-## Header 2
-### Header 3
+**Follow me on social media to keep abreast of my latest work and news.**
 
-- Bulleted
-- List
+![https://www.facebook.com/natspapercraftforall](./images/default_facebook.png)
+![http://www.twitter.com/natspapercraft](./images/default_twitter.png)
+![https://www.pinterest.com.au/nataliecraigvas/](./images/default_pinterest.png)
+![https://www.instagram.com/nats_paper_craft/](./images/default_instagram.png)
 
-1. Numbered
-2. List
+## Shop Online
 
-**Bold** and _Italic_ and `Code` text
+![https://www.etsy.com/au/shop/NatsPaperCraft](./images/etsy_logo_w128.png){: style="float: left"}
+A collection of my cards, albums, and other paper creations are available for sale.  The items are reasonably priced and  I think offer better quality and value than you typically find with preprinted cards in other stores. Sales help to recover my costs and make more items! If you see a design you like but would like it modified, please let me know.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natspapercraft/natspapercraft.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&copy; 2021.  Nat's Paper Craft. All Rights Reserved.
